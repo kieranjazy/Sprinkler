@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+
+<items version="1" gfxroot="gfx/items/">
+	<active name="Sprinkler" gfx="Sprinkler.png" description="Sprinkles." maxcharges="4"/>
+</items>
